@@ -103,6 +103,54 @@
         "name": "mc",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Flappy-Bird-Pipe-PNG-Halloween-theme.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flappy-Bird-Pipe-PNG-Halloween-theme.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "flappy-bird-background-gecj5m4a9yhhjp87.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "flappy-bird-background-gecj5m4a9yhhjp87.webp",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Flappy-Bird-Pipe-PNG-Halloween-theme2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flappy-Bird-Pipe-PNG-Halloween-theme2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
